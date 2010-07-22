@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
-<title>Benjamin C Meyer's Git Achievements</title>
-<item><title>Apprentice Author (Level 1)</title><description>Made 2^Level commits using git commit.</description></item>
-<item><title>Apprentice Socialite (Level 2)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Apprentice Presenter (Level 3)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
-<item><title>Apprentice Socialite (Level 1)</title><description>pushed a branch to a remote repository using git push</description></item>
-<item><title>Cherry Picker</title><description>Used git cherry-pick to add a sha from another branch into the current branch.</description></item>
-<item><title>Apprentice Collector (Level 3)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
+<title>'s Git Achievements</title>
+<item><title>Weaver</title><description>Investigate old branches by using git reflog</description></item>
+<item><title>Apprentice Investigator (Level 1)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
+<item><title>Master Socialite (Level 8)</title><description>pushed a branch to a remote repository using git push</description></item>
 <item><title>Apprentice Merchant (Level 2)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Apprentice Stone Mason (Level 2)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
+<item><title>Apprentice Product Manager (Level 1)</title><description>Stash the changes in a dirty working directory away with git stash.</description></item>
+<item><title>Banker (Level 6)</title><description>Join two or more development histories together with git merge.</description></item>
+<item><title>Apprentice Presenter (Level 2)</title><description>Shows one or more objects (blobs, trees, tags and commits) with git show</description></item>
+<item><title>Collector (Level 5)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
+<item><title>Blacksmith (Level 4)</title><description>Created a branch using git checkout -b.</description></item>
+<item><title>Master Stone Mason (Level 9)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
+<item><title>Master Author (Level 8)</title><description>Made 2^Level commits using git commit.</description></item>
+<item><title>Apprentice Blacksmith (Level 3)</title><description>Created a branch using git checkout -b.</description></item>
+<item><title>Collector (Level 4)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
+<item><title>Master Stone Mason (Level 8)</title><description>Added files to the index area for inclusion in the next commit with git add</description></item>
+<item><title>Master Socialite (Level 7)</title><description>pushed a branch to a remote repository using git push</description></item>
+<item><title>Dentist</title><description>Extracted patches using git log -p.</description></item>
+<item><title>Master Author (Level 7)</title><description>Made 2^Level commits using git commit.</description></item>
+<item><title>Banker (Level 5)</title><description>Join two or more development histories together with git merge.</description></item>
 <item><title>Apprentice Merchant (Level 1)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Apprentice Collector (Level 2)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
-<item><title>Apprentice Collector (Level 1)</title><description>Fetches named heads or tags from another repository with git fetch</description></item>
-<item><title>Inventor (pull)</title><description>Used a command that isn't part of the built in Git command</description></item>
-<item><title>Inventor (clone)</title><description>Used a command that isn't part of the built in Git command</description></item>
-<item><title>Inventor (reset)</title><description>Used a command that isn't part of the built in Git command</description></item>
-<item><title>Inventor (remote)</title><description>Used a command that isn't part of the built in Git command</description></item>
-<item><title>Inventor (diff)</title><description>Used a command that isn't part of the built in Git command</description></item>
-<item><title>Inventor (fetch)</title><description>Used a command that isn't part of the built in Git command</description></item>
-<item><title>Master Carpenter (Level       10)</title><description>Custom git hooks are installed which help catch issues before they are shared.</description></item>
+<item><title>Apprentice Blacksmith (Level 2)</title><description>Created a branch using git checkout -b.</description></item>
 </channel></rss>
