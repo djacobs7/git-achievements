@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel>
-<title>'s Git Achievements</title>
+<title>djacobs7's Git Achievements</title>
+<item><title>Baptised</title><description>Set global user name using git config.</description></item>
+<item><title>Apprentice Cleaning lady (Level 3)</title><description>Remove untracked files from the working tree with git clean</description></item>
 <item><title>Weaver</title><description>Investigate old branches by using git reflog</description></item>
 <item><title>Apprentice Investigator (Level 1)</title><description>Used git blame to annotates a file with information about how each line changed.</description></item>
 <item><title>Master Socialite (Level 8)</title><description>pushed a branch to a remote repository using git push</description></item>
@@ -18,6 +20,4 @@
 <item><title>Dentist</title><description>Extracted patches using git log -p.</description></item>
 <item><title>Master Author (Level 7)</title><description>Made 2^Level commits using git commit.</description></item>
 <item><title>Banker (Level 5)</title><description>Join two or more development histories together with git merge.</description></item>
-<item><title>Apprentice Merchant (Level 1)</title><description>Added an external repository with git remote add.</description></item>
-<item><title>Apprentice Blacksmith (Level 2)</title><description>Created a branch using git checkout -b.</description></item>
 </channel></rss>
